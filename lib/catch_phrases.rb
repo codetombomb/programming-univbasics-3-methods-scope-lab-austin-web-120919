@@ -13,8 +13,10 @@ def link
   puts old_man
 end
 
-def any_phrase 
-  phrase = "Do A Barrel Roll!"
+phrase = "Do A Barrel Roll!""
+def any_phrase (phrase)
   puts phrase
 end
+
+
   
