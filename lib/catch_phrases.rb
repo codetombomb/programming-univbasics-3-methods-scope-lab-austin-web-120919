@@ -9,3 +9,6 @@ def toadstool
 end
 
 def link 
+  old_man = "It's Dangerous To Go Alone! Take This."
+  puts old_man
+end
